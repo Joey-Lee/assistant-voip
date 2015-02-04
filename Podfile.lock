@@ -1,0 +1,20 @@
+PODS:
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - JCDialPad (0.1.1):
+    - libPhoneNumber-iOS
+  - libPhoneNumber-iOS (0.7.6)
+
+DEPENDENCIES:
+  - FMDB (~> 2.4)
+  - JCDialPad (~> 0.1.1)
+
+SPEC CHECKSUMS:
+  FMDB: 0efa188cf0dd1ce82c27a478cd5f5fa245308677
+  JCDialPad: 0b3dc3175b376f765dd1b47c39ed19e4ed36f326
+  libPhoneNumber-iOS: d4316d494d4997c40a6059faf35a970d7f4eb1c0
+
+COCOAPODS: 0.35.0
