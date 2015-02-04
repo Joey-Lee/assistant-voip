@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2AB607A91A820DE700E07285"
+               BlueprintIdentifier = "2AB607DB1A8212A800E07285"
                BuildableName = "assistant-voip.app"
                BlueprintName = "assistant-voip"
                ReferencedContainer = "container:assistant-voip.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2AB607C21A820DE700E07285"
+               BlueprintIdentifier = "2AB607F71A8212A800E07285"
                BuildableName = "assistant-voipTests.xctest"
                BlueprintName = "assistant-voipTests"
                ReferencedContainer = "container:assistant-voip.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2AB607C21A820DE700E07285"
+               BlueprintIdentifier = "2AB607F71A8212A800E07285"
                BuildableName = "assistant-voipTests.xctest"
                BlueprintName = "assistant-voipTests"
                ReferencedContainer = "container:assistant-voip.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2AB607A91A820DE700E07285"
+            BlueprintIdentifier = "2AB607DB1A8212A800E07285"
             BuildableName = "assistant-voip.app"
             BlueprintName = "assistant-voip"
             ReferencedContainer = "container:assistant-voip.xcodeproj">
@@ -75,7 +75,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2AB607A91A820DE700E07285"
+            BlueprintIdentifier = "2AB607DB1A8212A800E07285"
             BuildableName = "assistant-voip.app"
             BlueprintName = "assistant-voip"
             ReferencedContainer = "container:assistant-voip.xcodeproj">
@@ -93,7 +93,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2AB607A91A820DE700E07285"
+            BlueprintIdentifier = "2AB607DB1A8212A800E07285"
             BuildableName = "assistant-voip.app"
             BlueprintName = "assistant-voip"
             ReferencedContainer = "container:assistant-voip.xcodeproj">

@@ -1,18 +1,18 @@
 //
-//  ViewController.m
+//  SecondViewController.m
 //  assistant-voip
 //
 //  Created by LiJia on 15/2/4.
 //  Copyright (c) 2015年 LiJia. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "SecondViewController.h"
 
-@interface ViewController ()
+@interface SecondViewController ()
 
 @end
 
-@implementation ViewController
+@implementation SecondViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

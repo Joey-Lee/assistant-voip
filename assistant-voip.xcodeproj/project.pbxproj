@@ -10,59 +10,22 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
-		<key>0FDDCC71B61C4457C1D78857</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>Copy Pods Resources</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh"
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>1EC1E57BA075D1F1DC0C6993</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>2AB607A11A820DE700E07285</key>
+		<key>2AB607D31A8212A800E07285</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>2AB607AC1A820DE700E07285</string>
-				<string>2AB607C61A820DE700E07285</string>
-				<string>2AB607AB1A820DE700E07285</string>
-				<string>DB713DF3CBAD42B4E558A47A</string>
-				<string>5A163C170CBC98BE2BC3AF25</string>
+				<string>2AB607DE1A8212A800E07285</string>
+				<string>2AB607FB1A8212A800E07285</string>
+				<string>2AB607DD1A8212A800E07285</string>
+				<string>F41DC4B3D9F853DA6D2B6A84</string>
+				<string>E9CC6E20877CE9638032DF0F</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2AB607A21A820DE700E07285</key>
+		<key>2AB607D41A8212A800E07285</key>
 		<dict>
 			<key>attributes</key>
 			<dict>
@@ -72,24 +35,22 @@
 				<string>LiJia</string>
 				<key>TargetAttributes</key>
 				<dict>
-					<key>2AB607A91A820DE700E07285</key>
+					<key>2AB607DB1A8212A800E07285</key>
 					<dict>
 						<key>CreatedOnToolsVersion</key>
 						<string>6.1.1</string>
-						<key>DevelopmentTeam</key>
-						<string>JV99695D55</string>
 					</dict>
-					<key>2AB607C21A820DE700E07285</key>
+					<key>2AB607F71A8212A800E07285</key>
 					<dict>
 						<key>CreatedOnToolsVersion</key>
 						<string>6.1.1</string>
 						<key>TestTargetID</key>
-						<string>2AB607A91A820DE700E07285</string>
+						<string>2AB607DB1A8212A800E07285</string>
 					</dict>
 				</dict>
 			</dict>
 			<key>buildConfigurationList</key>
-			<string>2AB607A51A820DE700E07285</string>
+			<string>2AB607D71A8212A800E07285</string>
 			<key>compatibilityVersion</key>
 			<string>Xcode 3.2</string>
 			<key>developmentRegion</key>
@@ -104,9 +65,9 @@
 				<string>Base</string>
 			</array>
 			<key>mainGroup</key>
-			<string>2AB607A11A820DE700E07285</string>
+			<string>2AB607D31A8212A800E07285</string>
 			<key>productRefGroup</key>
-			<string>2AB607AB1A820DE700E07285</string>
+			<string>2AB607DD1A8212A800E07285</string>
 			<key>projectDirPath</key>
 			<string></string>
 			<key>projectReferences</key>
@@ -115,16 +76,16 @@
 			<string></string>
 			<key>targets</key>
 			<array>
-				<string>2AB607A91A820DE700E07285</string>
-				<string>2AB607C21A820DE700E07285</string>
+				<string>2AB607DB1A8212A800E07285</string>
+				<string>2AB607F71A8212A800E07285</string>
 			</array>
 		</dict>
-		<key>2AB607A51A820DE700E07285</key>
+		<key>2AB607D71A8212A800E07285</key>
 		<dict>
 			<key>buildConfigurations</key>
 			<array>
-				<string>2AB607CB1A820DE700E07285</string>
-				<string>2AB607CC1A820DE700E07285</string>
+				<string>2AB608001A8212A800E07285</string>
+				<string>2AB608011A8212A800E07285</string>
 			</array>
 			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
@@ -133,60 +94,61 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>2AB607A61A820DE700E07285</key>
+		<key>2AB607D81A8212A800E07285</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>2AB607B61A820DE700E07285</string>
-				<string>2AB607B31A820DE700E07285</string>
-				<string>2AB607B01A820DE700E07285</string>
+				<string>2AB607EB1A8212A800E07285</string>
+				<string>2AB607E51A8212A800E07285</string>
+				<string>2AB607E81A8212A800E07285</string>
+				<string>2AB607E21A8212A800E07285</string>
 			</array>
 			<key>isa</key>
 			<string>PBXSourcesBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>2AB607A71A820DE700E07285</key>
+		<key>2AB607D91A8212A800E07285</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>981054FBD52EEEADFABB542C</string>
+				<string>F751B7D5A27E5AC5A909EB64</string>
 			</array>
 			<key>isa</key>
 			<string>PBXFrameworksBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>2AB607A81A820DE700E07285</key>
+		<key>2AB607DA1A8212A800E07285</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>2AB607B91A820DE700E07285</string>
-				<string>2AB607BE1A820DE700E07285</string>
-				<string>2AB607BB1A820DE700E07285</string>
+				<string>2AB607EE1A8212A800E07285</string>
+				<string>2AB607F31A8212A800E07285</string>
+				<string>2AB607F01A8212A800E07285</string>
 			</array>
 			<key>isa</key>
 			<string>PBXResourcesBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>2AB607A91A820DE700E07285</key>
+		<key>2AB607DB1A8212A800E07285</key>
 		<dict>
 			<key>buildConfigurationList</key>
-			<string>2AB607CD1A820DE700E07285</string>
+			<string>2AB608021A8212A800E07285</string>
 			<key>buildPhases</key>
 			<array>
-				<string>E7842B9B0F53E5BE73633109</string>
-				<string>2AB607A61A820DE700E07285</string>
-				<string>2AB607A71A820DE700E07285</string>
-				<string>2AB607A81A820DE700E07285</string>
-				<string>0FDDCC71B61C4457C1D78857</string>
+				<string>9CE64CEA9D2AE412E0F95525</string>
+				<string>2AB607D81A8212A800E07285</string>
+				<string>2AB607D91A8212A800E07285</string>
+				<string>2AB607DA1A8212A800E07285</string>
+				<string>7A7473AFC7E6DA3903FB721E</string>
 			</array>
 			<key>buildRules</key>
 			<array/>
@@ -199,11 +161,11 @@
 			<key>productName</key>
 			<string>assistant-voip</string>
 			<key>productReference</key>
-			<string>2AB607AA1A820DE700E07285</string>
+			<string>2AB607DC1A8212A800E07285</string>
 			<key>productType</key>
 			<string>com.apple.product-type.application</string>
 		</dict>
-		<key>2AB607AA1A820DE700E07285</key>
+		<key>2AB607DC1A8212A800E07285</key>
 		<dict>
 			<key>explicitFileType</key>
 			<string>wrapper.application</string>
@@ -216,12 +178,12 @@
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
-		<key>2AB607AB1A820DE700E07285</key>
+		<key>2AB607DD1A8212A800E07285</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>2AB607AA1A820DE700E07285</string>
-				<string>2AB607C31A820DE700E07285</string>
+				<string>2AB607DC1A8212A800E07285</string>
+				<string>2AB607F81A8212A800E07285</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
@@ -230,18 +192,20 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2AB607AC1A820DE700E07285</key>
+		<key>2AB607DE1A8212A800E07285</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>2AB607B11A820DE700E07285</string>
-				<string>2AB607B21A820DE700E07285</string>
-				<string>2AB607B41A820DE700E07285</string>
-				<string>2AB607B51A820DE700E07285</string>
-				<string>2AB607B71A820DE700E07285</string>
-				<string>2AB607BA1A820DE700E07285</string>
-				<string>2AB607BC1A820DE700E07285</string>
-				<string>2AB607AD1A820DE700E07285</string>
+				<string>2AB607E31A8212A800E07285</string>
+				<string>2AB607E41A8212A800E07285</string>
+				<string>2AB607E61A8212A800E07285</string>
+				<string>2AB607E71A8212A800E07285</string>
+				<string>2AB607E91A8212A800E07285</string>
+				<string>2AB607EA1A8212A800E07285</string>
+				<string>2AB607EC1A8212A800E07285</string>
+				<string>2AB607EF1A8212A800E07285</string>
+				<string>2AB607F11A8212A800E07285</string>
+				<string>2AB607DF1A8212A800E07285</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
@@ -250,12 +214,12 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2AB607AD1A820DE700E07285</key>
+		<key>2AB607DF1A8212A800E07285</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>2AB607AE1A820DE700E07285</string>
-				<string>2AB607AF1A820DE700E07285</string>
+				<string>2AB607E01A8212A800E07285</string>
+				<string>2AB607E11A8212A800E07285</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
@@ -264,7 +228,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2AB607AE1A820DE700E07285</key>
+		<key>2AB607E01A8212A800E07285</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
@@ -275,7 +239,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2AB607AF1A820DE700E07285</key>
+		<key>2AB607E11A8212A800E07285</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
@@ -286,14 +250,14 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2AB607B01A820DE700E07285</key>
+		<key>2AB607E21A8212A800E07285</key>
 		<dict>
 			<key>fileRef</key>
-			<string>2AB607AF1A820DE700E07285</string>
+			<string>2AB607E11A8212A800E07285</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>2AB607B11A820DE700E07285</key>
+		<key>2AB607E31A8212A800E07285</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
@@ -304,7 +268,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2AB607B21A820DE700E07285</key>
+		<key>2AB607E41A8212A800E07285</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
@@ -315,47 +279,76 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2AB607B31A820DE700E07285</key>
+		<key>2AB607E51A8212A800E07285</key>
 		<dict>
 			<key>fileRef</key>
-			<string>2AB607B21A820DE700E07285</string>
+			<string>2AB607E41A8212A800E07285</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>2AB607B41A820DE700E07285</key>
+		<key>2AB607E61A8212A800E07285</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>ViewController.h</string>
+			<string>FirstViewController.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2AB607B51A820DE700E07285</key>
+		<key>2AB607E71A8212A800E07285</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>ViewController.m</string>
+			<string>FirstViewController.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2AB607B61A820DE700E07285</key>
+		<key>2AB607E81A8212A800E07285</key>
 		<dict>
 			<key>fileRef</key>
-			<string>2AB607B51A820DE700E07285</string>
+			<string>2AB607E71A8212A800E07285</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>2AB607B71A820DE700E07285</key>
+		<key>2AB607E91A8212A800E07285</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>SecondViewController.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2AB607EA1A8212A800E07285</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>SecondViewController.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2AB607EB1A8212A800E07285</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2AB607EA1A8212A800E07285</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>2AB607EC1A8212A800E07285</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>2AB607B81A820DE700E07285</string>
+				<string>2AB607ED1A8212A800E07285</string>
 			</array>
 			<key>isa</key>
 			<string>PBXVariantGroup</string>
@@ -364,7 +357,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2AB607B81A820DE700E07285</key>
+		<key>2AB607ED1A8212A800E07285</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
@@ -377,14 +370,14 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2AB607B91A820DE700E07285</key>
+		<key>2AB607EE1A8212A800E07285</key>
 		<dict>
 			<key>fileRef</key>
-			<string>2AB607B71A820DE700E07285</string>
+			<string>2AB607EC1A8212A800E07285</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>2AB607BA1A820DE700E07285</key>
+		<key>2AB607EF1A8212A800E07285</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
@@ -395,18 +388,18 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2AB607BB1A820DE700E07285</key>
+		<key>2AB607F01A8212A800E07285</key>
 		<dict>
 			<key>fileRef</key>
-			<string>2AB607BA1A820DE700E07285</string>
+			<string>2AB607EF1A8212A800E07285</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>2AB607BC1A820DE700E07285</key>
+		<key>2AB607F11A8212A800E07285</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>2AB607BD1A820DE700E07285</string>
+				<string>2AB607F21A8212A800E07285</string>
 			</array>
 			<key>isa</key>
 			<string>PBXVariantGroup</string>
@@ -415,7 +408,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2AB607BD1A820DE700E07285</key>
+		<key>2AB607F21A8212A800E07285</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
@@ -428,27 +421,27 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2AB607BE1A820DE700E07285</key>
+		<key>2AB607F31A8212A800E07285</key>
 		<dict>
 			<key>fileRef</key>
-			<string>2AB607BC1A820DE700E07285</string>
+			<string>2AB607F11A8212A800E07285</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>2AB607BF1A820DE700E07285</key>
+		<key>2AB607F41A8212A800E07285</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>2AB607CA1A820DE700E07285</string>
+				<string>2AB607FF1A8212A800E07285</string>
 			</array>
 			<key>isa</key>
 			<string>PBXSourcesBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>2AB607C01A820DE700E07285</key>
+		<key>2AB607F51A8212A800E07285</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
@@ -459,7 +452,7 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>2AB607C11A820DE700E07285</key>
+		<key>2AB607F61A8212A800E07285</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
@@ -470,21 +463,21 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>2AB607C21A820DE700E07285</key>
+		<key>2AB607F71A8212A800E07285</key>
 		<dict>
 			<key>buildConfigurationList</key>
-			<string>2AB607D01A820DE700E07285</string>
+			<string>2AB608051A8212A800E07285</string>
 			<key>buildPhases</key>
 			<array>
-				<string>2AB607BF1A820DE700E07285</string>
-				<string>2AB607C01A820DE700E07285</string>
-				<string>2AB607C11A820DE700E07285</string>
+				<string>2AB607F41A8212A800E07285</string>
+				<string>2AB607F51A8212A800E07285</string>
+				<string>2AB607F61A8212A800E07285</string>
 			</array>
 			<key>buildRules</key>
 			<array/>
 			<key>dependencies</key>
 			<array>
-				<string>2AB607C51A820DE700E07285</string>
+				<string>2AB607FA1A8212A800E07285</string>
 			</array>
 			<key>isa</key>
 			<string>PBXNativeTarget</string>
@@ -493,11 +486,11 @@
 			<key>productName</key>
 			<string>assistant-voipTests</string>
 			<key>productReference</key>
-			<string>2AB607C31A820DE700E07285</string>
+			<string>2AB607F81A8212A800E07285</string>
 			<key>productType</key>
 			<string>com.apple.product-type.bundle.unit-test</string>
 		</dict>
-		<key>2AB607C31A820DE700E07285</key>
+		<key>2AB607F81A8212A800E07285</key>
 		<dict>
 			<key>explicitFileType</key>
 			<string>wrapper.cfbundle</string>
@@ -510,34 +503,34 @@
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
-		<key>2AB607C41A820DE700E07285</key>
+		<key>2AB607F91A8212A800E07285</key>
 		<dict>
 			<key>containerPortal</key>
-			<string>2AB607A21A820DE700E07285</string>
+			<string>2AB607D41A8212A800E07285</string>
 			<key>isa</key>
 			<string>PBXContainerItemProxy</string>
 			<key>proxyType</key>
 			<string>1</string>
 			<key>remoteGlobalIDString</key>
-			<string>2AB607A91A820DE700E07285</string>
+			<string>2AB607DB1A8212A800E07285</string>
 			<key>remoteInfo</key>
 			<string>assistant-voip</string>
 		</dict>
-		<key>2AB607C51A820DE700E07285</key>
+		<key>2AB607FA1A8212A800E07285</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXTargetDependency</string>
 			<key>target</key>
-			<string>2AB607A91A820DE700E07285</string>
+			<string>2AB607DB1A8212A800E07285</string>
 			<key>targetProxy</key>
-			<string>2AB607C41A820DE700E07285</string>
+			<string>2AB607F91A8212A800E07285</string>
 		</dict>
-		<key>2AB607C61A820DE700E07285</key>
+		<key>2AB607FB1A8212A800E07285</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>2AB607C91A820DE700E07285</string>
-				<string>2AB607C71A820DE700E07285</string>
+				<string>2AB607FE1A8212A800E07285</string>
+				<string>2AB607FC1A8212A800E07285</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
@@ -546,11 +539,11 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2AB607C71A820DE700E07285</key>
+		<key>2AB607FC1A8212A800E07285</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>2AB607C81A820DE700E07285</string>
+				<string>2AB607FD1A8212A800E07285</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
@@ -559,7 +552,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2AB607C81A820DE700E07285</key>
+		<key>2AB607FD1A8212A800E07285</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
@@ -570,7 +563,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2AB607C91A820DE700E07285</key>
+		<key>2AB607FE1A8212A800E07285</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
@@ -581,14 +574,14 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2AB607CA1A820DE700E07285</key>
+		<key>2AB607FF1A8212A800E07285</key>
 		<dict>
 			<key>fileRef</key>
-			<string>2AB607C91A820DE700E07285</string>
+			<string>2AB607FE1A8212A800E07285</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>2AB607CB1A820DE700E07285</key>
+		<key>2AB608001A8212A800E07285</key>
 		<dict>
 			<key>buildSettings</key>
 			<dict>
@@ -667,7 +660,7 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>2AB607CC1A820DE700E07285</key>
+		<key>2AB608011A8212A800E07285</key>
 		<dict>
 			<key>buildSettings</key>
 			<dict>
@@ -737,81 +730,71 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>2AB607CD1A820DE700E07285</key>
+		<key>2AB608021A8212A800E07285</key>
 		<dict>
 			<key>buildConfigurations</key>
 			<array>
-				<string>2AB607CE1A820DE700E07285</string>
-				<string>2AB607CF1A820DE700E07285</string>
+				<string>2AB608031A8212A800E07285</string>
+				<string>2AB608041A8212A800E07285</string>
 			</array>
 			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>2AB607CE1A820DE700E07285</key>
+		<key>2AB608031A8212A800E07285</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>6E42171822452B1F6BF01289</string>
+			<string>37CD2BBD5FA6F7221B6A108D</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ASSETCATALOG_COMPILER_APPICON_NAME</key>
 				<string>AppIcon</string>
-				<key>CODE_SIGN_IDENTITY</key>
-				<string>iPhone Developer</string>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer: Jerry Lee (5W84W97RCC)</string>
 				<key>INFOPLIST_FILE</key>
 				<string>assistant-voip/Info.plist</string>
 				<key>LD_RUNPATH_SEARCH_PATHS</key>
 				<string>$(inherited) @executable_path/Frameworks</string>
 				<key>PRODUCT_NAME</key>
 				<string>$(TARGET_NAME)</string>
-				<key>PROVISIONING_PROFILE</key>
-				<string>7514ec93-473f-4e2d-b74b-e6bf0b558c07</string>
 			</dict>
 			<key>isa</key>
 			<string>XCBuildConfiguration</string>
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>2AB607CF1A820DE700E07285</key>
+		<key>2AB608041A8212A800E07285</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>74C24AB9F119E314CF3D7B5D</string>
+			<string>A939CA5ADE3A2595CAF22C5C</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ASSETCATALOG_COMPILER_APPICON_NAME</key>
 				<string>AppIcon</string>
-				<key>CODE_SIGN_IDENTITY</key>
-				<string>iPhone Developer</string>
 				<key>INFOPLIST_FILE</key>
 				<string>assistant-voip/Info.plist</string>
 				<key>LD_RUNPATH_SEARCH_PATHS</key>
 				<string>$(inherited) @executable_path/Frameworks</string>
 				<key>PRODUCT_NAME</key>
 				<string>$(TARGET_NAME)</string>
-				<key>PROVISIONING_PROFILE</key>
-				<string>7514ec93-473f-4e2d-b74b-e6bf0b558c07</string>
 			</dict>
 			<key>isa</key>
 			<string>XCBuildConfiguration</string>
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>2AB607D01A820DE700E07285</key>
+		<key>2AB608051A8212A800E07285</key>
 		<dict>
 			<key>buildConfigurations</key>
 			<array>
-				<string>2AB607D11A820DE700E07285</string>
-				<string>2AB607D21A820DE700E07285</string>
+				<string>2AB608061A8212A800E07285</string>
+				<string>2AB608071A8212A800E07285</string>
 			</array>
 			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>2AB607D11A820DE700E07285</key>
+		<key>2AB608061A8212A800E07285</key>
 		<dict>
 			<key>buildSettings</key>
 			<dict>
@@ -841,7 +824,7 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>2AB607D21A820DE700E07285</key>
+		<key>2AB608071A8212A800E07285</key>
 		<dict>
 			<key>buildSettings</key>
 			<dict>
@@ -866,20 +849,7 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>5A163C170CBC98BE2BC3AF25</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>1EC1E57BA075D1F1DC0C6993</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E42171822452B1F6BF01289</key>
+		<key>37CD2BBD5FA6F7221B6A108D</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -894,43 +864,44 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>74C24AB9F119E314CF3D7B5D</key>
+		<key>6FB3A337A2FFBD5DD246D7E5</key>
 		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
 			<key>includeInIndex</key>
-			<string>1</string>
+			<string>0</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods.release.xcconfig</string>
 			<key>path</key>
-			<string>Pods/Target Support Files/Pods/Pods.release.xcconfig</string>
+			<string>libPods.a</string>
 			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
-		<key>981054FBD52EEEADFABB542C</key>
+		<key>7A7473AFC7E6DA3903FB721E</key>
 		<dict>
-			<key>fileRef</key>
-			<string>1EC1E57BA075D1F1DC0C6993</string>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array/>
+			<key>inputPaths</key>
+			<array/>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>DB713DF3CBAD42B4E558A47A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>6E42171822452B1F6BF01289</string>
-				<string>74C24AB9F119E314CF3D7B5D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>PBXShellScriptBuildPhase</string>
 			<key>name</key>
-			<string>Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>Copy Pods Resources</string>
+			<key>outputPaths</key>
+			<array/>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+			<key>shellPath</key>
+			<string>/bin/sh</string>
+			<key>shellScript</key>
+			<string>"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh"
+</string>
+			<key>showEnvVarsInLog</key>
+			<string>0</string>
 		</dict>
-		<key>E7842B9B0F53E5BE73633109</key>
+		<key>9CE64CEA9D2AE412E0F95525</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
@@ -960,8 +931,57 @@ fi
 			<key>showEnvVarsInLog</key>
 			<string>0</string>
 		</dict>
+		<key>A939CA5ADE3A2595CAF22C5C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>name</key>
+			<string>Pods.release.xcconfig</string>
+			<key>path</key>
+			<string>Pods/Target Support Files/Pods/Pods.release.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E9CC6E20877CE9638032DF0F</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>6FB3A337A2FFBD5DD246D7E5</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F41DC4B3D9F853DA6D2B6A84</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>37CD2BBD5FA6F7221B6A108D</string>
+				<string>A939CA5ADE3A2595CAF22C5C</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F751B7D5A27E5AC5A909EB64</key>
+		<dict>
+			<key>fileRef</key>
+			<string>6FB3A337A2FFBD5DD246D7E5</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 	</dict>
 	<key>rootObject</key>
-	<string>2AB607A21A820DE700E07285</string>
+	<string>2AB607D41A8212A800E07285</string>
 </dict>
 </plist>

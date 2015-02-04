@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2BC0EAF3974B8C2C3CCF24F6"
+               BlueprintIdentifier = "5C69BB9D3AE03CE7B69289BF"
                BuildableName = "libPods-JCDialPad.a"
                BlueprintName = "Pods-JCDialPad"
                ReferencedContainer = "container:Pods.xcodeproj">
